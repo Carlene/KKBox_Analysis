@@ -167,3 +167,11 @@ RENAME TO transaction_v2;
 
 ALTER TABLE IF EXISTS user_log
 RENAME TO userlog_v2;
+
+
+CREATE TABLE member_sample(
+id int NOT NULL primary key
+,member varchar(255) NOT NULL)
+
+COPY member_sample
+FROM '/Users/galvanize/Documents/projects/kkbox-churn-prediction-challenge/made_by_me/member_samp.csv' DELIMITER ',' CSV HEADER
