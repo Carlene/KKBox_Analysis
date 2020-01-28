@@ -1,15 +1,13 @@
-KKBox: Let's Analyze!
-=========================
+![KKBOX_logo](https://github.com/Carlene/KKBox_Analysis/blob/master/graphs/kkbox_logo.png)
 
-The data for this project was provided by Kaggle.com and KKBOX’s company website. For this project, I used SQL for organizing the datasets into a relational database so I would be able to join information like a customer’s transactions with their demographic data. Python was used because it was faster with the large amount of data I had and for hypothesis testing. Tableau was used for my visualizations.
+## Let's Analyze! (TBE)
+What's KKBOX?
 
-KKBOX is a music subscription service started in 2005 in Taiwan. It was one of the first companies to enter the music streaming scene, and its slogan is Let’s Music! (why my title is Let’s Analyze! :D). 
+KKBOX is a music subscription service started in 2005 in Taiwan. It was one of the first companies to enter the music streaming scene, and its slogan is Let’s Music! 
 
-They have over 10 M users and have over 50 M tracks, hosting the largest database of Chinese music. Currently, they’re in 5 different countries (Taiwan, Hong Kong, Japan, Singapore and Malaysia), and are still growing! 
+![Lets_Music_logo](https://github.com/Carlene/KKBox_Analysis/blob/master/graphs/logo_music.png)
 
-Last month, they entered a partnership with Microsoft to start branching their product to other countries and continents. With this new partnership in mind, I wanted to look at a group of KKBOX’s subscriber base. 
-
-I wanted to figure out the characteristics of their subscribers who churn, and the commonalities of subscribers who pay for more expensive plans.
+They have over 10 M users and have over 50 M tracks, hosting the largest database of Chinese music. Currently, they’re in 5 different countries (Taiwan, Hong Kong, Japan, Singapore and Malaysia), and are still growing! Last month, they entered a partnership with Microsoft to start branching their product to other countries and continents. With this new partnership in mind, I wanted to look at a group of KKBOX’s subscriber base. 
 
 So, who are KKBOX’s customers? Much of the data was anonymized, so I focused on the information that was the most descriptive. 
 
