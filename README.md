@@ -7,7 +7,9 @@ What's KKBOX?
 
 KKBOX is a music subscription service started in 2005 in Taiwan. It was one of the first companies to enter the music streaming scene, and its slogan is Let’s Music! 
 
-![Lets_Music_logo](https://github.com/Carlene/KKBox_Analysis/blob/master/graphs/logo_music.png)
+<p align="center">
+  <img width="292" height="237" src="https://github.com/Carlene/KKBox_Analysis/blob/master/graphs/logo_music.png">
+</p>
 
 They have over 10 M users and have over 50 M tracks, hosting the largest database of Chinese music. Currently, they’re in 5 different countries (Taiwan, Hong Kong, Japan, Singapore and Malaysia), and are still growing! Last month, they entered a partnership with Microsoft to start branching their product to other countries and continents. With this new partnership in mind, I wanted to look at a group of KKBOX’s subscriber base. 
 
