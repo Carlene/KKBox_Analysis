@@ -2,7 +2,7 @@
   <img width="418" height="170" src="https://github.com/Carlene/KKBox_Analysis/blob/master/graphs/kkbox_logo.png">
 </p>
 
-## Let's Analyze! (TBE)
+## Let's Analyze!
 What's KKBOX?
 
 KKBOX is a music subscription service started in 2005 in Taiwan. It was one of the first companies to enter the music streaming scene, and its slogan is Let’s Music! 
@@ -31,7 +31,7 @@ After some cleaning of the data, subscribers range from ages 14-100. Only 1% of 
 
 A large number of subscribers listed their age as ‘0’, not wanting to input their age. Of users who marked themselves as age ‘0’, they were less likely to churn than the users who gave an age.
 
-[GRAPH]
+![payment_plans](https://github.com/Carlene/KKBox_Analysis/blob/master/graphs/payment_plans.png)
 
 These are the top 5 payment plans our customers use out of 42 different payment plans, converted from New Taiwan Dollar to U.S. Dollar. 98% of the KKBOX subscriber base pay for one of these plans. The most popular plan with about 50% of subscribers is $4.92/month, followed by the $3.24/month, then the $5.94/month.
 
